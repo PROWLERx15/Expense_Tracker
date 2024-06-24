@@ -1,6 +1,6 @@
 # Expense Tracker
 
-## PERSONAL EXPENSE TRACKER Members:
+## Project Members:
 
 1. ANURAG THAKUR (2023IMG-008)
 2. KSHITIJ DHAMANIKAR (2023IMG-029)
@@ -38,9 +38,7 @@ In the provided code for the Expense Tracker application, a class named Finance 
 
 1. **Encapsulation:** The Finance class encapsulates related data (such as expense details, budget information) and functionalities (such as adding expenses, managing budget) into a single unit. This promotes modularity and allows for better organization of code.
 1. **Abstraction:** The class provides an abstraction layer that hides the internal implementation details from the user. Users of the class (in this case, the main function or other parts of the program) interact with it through a well-defined interface (i.e., public member functions) without needing to know the internal workings.
-1. **Code Reusability:** By encapsulating related functionalities within a class, the code becomes more reusable. The same class can be instantiated multiple times in different
-
-   parts of the program or in different projects, without duplicating the code for expense tracking and budget management.
+1. **Code Reusability:** By encapsulating related functionalities within a class, the code becomes more reusable. The same class can be instantiated multiple times in different parts of the program or in different projects, without duplicating the code for expense tracking and budget management.
 
 Overall, using a class in the Expense Tracker application helps in achieving better organization, modularity, and maintainability of the codebase, while also adhering to the principles of object-oriented programming.
 
@@ -94,12 +92,11 @@ Contributor: **ANURAG THAKUR**
 - Developed scripts for plotting expenses and generating visualizations based on expense data.
 - Error handling was also done by him.
 
-**Conclusion**
+## **Conclusion**
 
 The Expense Tracker project demonstrates the application of object-oriented programming principles in developing a practical tool for managing expenses and budgets. Through collaborative efforts, the team successfully implemented various functionalities and ensured a user-friendly experience.
 
-### **Output**
-
+## **Output**
 ![Aspose Words 55000cb8-a4b1-4a8c-b5d3-dfd93ee7c8f6 002](https://github.com/DevAnuragT/Expense_Tracker/assets/97083108/855f20bb-8c41-4840-92fa-d578804643b6)
 ![Aspose Words 55000cb8-a4b1-4a8c-b5d3-dfd93ee7c8f6 003](https://github.com/DevAnuragT/Expense_Tracker/assets/97083108/50ae9b38-c422-4f44-8527-9ce4b273cd36)
 ![Aspose Words 55000cb8-a4b1-4a8c-b5d3-dfd93ee7c8f6 004](https://github.com/DevAnuragT/Expense_Tracker/assets/97083108/8d1b4348-2883-4500-a005-0ed8ee37f551)
