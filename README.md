@@ -55,6 +55,7 @@ Overall, using a class in the Expense Tracker application helps in achieving bet
 1. Add Expenses
 1. Plot Expenses
 1. Exit
+   
 3. **Functionality:**
 - Users can select an option from the menu to perform various tasks such as viewing budget details, adding money to the budget, recording expenses, and visualizing spending patterns.
 4. **Input Validation:**
